@@ -21,12 +21,4 @@ public class Relatorio {
     public void salvarRelatorio() {
         System.out.println("Salvando Relatório no disco...");
     }
-
-    // Exemplo de uso
-    public static void main(String[] args) {
-        Relatorio relatorio = new Relatorio();
-        relatorio.setConteudo("Este é o conteúdo do relatório.");
-        relatorio.gerarRelatorio();
-        relatorio.salvarRelatorio();
-    }
 }
