@@ -5,31 +5,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22b8fb33-3cbd-4ec0-b39e-0e890f4cc784" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Solid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/MetodoPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/PagamentoCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/PagamentoPix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/ProcessadorPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Violacao/ProcessadorPagamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/RelatorioFuncionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Violacao/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Solucao/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Solucao/IComer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Solucao/INadar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Solucao/IVoar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Solucao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Solucao/Passaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Violacao/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Violacao/IAcoesAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Isp_principio_segregacao_interface/Violacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Solucao/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Solucao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Solucao/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Solucao/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Violacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Violacao/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lsp_principio_substituicao_liskov/Violacao/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Solucao/IRepositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Solucao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Solucao/RepositorioBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Solucao/ServicoRelatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Violacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Violacao/Repositorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dip_principio_inversão_dependência/Violacao/ServicoRelatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/Desconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/DescontoAlimentos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/DescontoEletronico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/DescontoRoupas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Violacao/CalculadoraDeDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Violacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/GeradorRelatorio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/RelatorioPersistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Violacao/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Violacao/Relatorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solid-examples" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Solucao/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Cachorro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Gato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lsp_principio_substituicao_liskov/Violacao/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/MetodoPagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/PagamentoCredito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/PagamentoPix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Solucao/ProcessadorPagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ocp_principio_aberto_fechado/Violacao/ProcessadorPagamento.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Solucao/RelatorioFuncionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/srp_principio_responsabilidade_unica/Violacao/Funcionario.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,12 +68,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -60,9 +93,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrador/Downloads/BookStore&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrador/Documents/Solid/src/Main.java&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrador/Documents/Solid&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Administrador/Documents/Solid/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
