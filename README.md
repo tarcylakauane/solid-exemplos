@@ -1,5 +1,9 @@
 <<<<<<< HEAD
 # solid-examples
-=======
-# solid-exemplos
->>>>>>> d3eedcb8e4ceb8ddade13249d1c6c05372984c08
+- SRP
+- OCP
+- LSP
+- ISP
+- DIP
+
+Integrantes: Calvin Almeida, Louise Alonso, Maria Fernanda Lima e Tárcyla Kauane
